@@ -1,0 +1,11 @@
+{
+  "result": "0",
+  "loginResult": "O",
+  "motpUse": "O",
+  "motpID": "fixture-motp-id",
+  "memberID": "fixture-user",
+  "memberKey": "fixture-member-key",
+  "csiteNo": "0",
+  "freeTrial": "X",
+  "freeTrialRemainDate": "0"
+}
